@@ -1,0 +1,20 @@
+INFO:root:Inicializando Testes
+INFO:root:Iniciando teste com a promocao 1 Promocao com aplicar todos desmarcado somente 1 item deve receber o desconto
+INFO:root:Subtotal Venda 14,98 total de desconto 1,00
+INFO:root:Valor da promocao 1 esta correto, TESTE APROVADO
+INFO:root:Iniciando teste com a promocao 2 Promocao com Limite de itens
+INFO:root:Subtotal Venda 40,33 total de desconto 12,00
+INFO:root:Valor da promocao 2 esta correto, TESTE APROVADO
+INFO:root:Iniciando teste com a promocao 3 Promocao com a aba ganha
+INFO:root:Subtotal Venda 19,84 total de desconto 2,21
+INFO:root:Valor da promocao 3 esta correto, TESTE APROVADO
+INFO:root:Iniciando teste com a promocao 4 utilizando 3 itens para ativar aba Paga
+INFO:root:Subtotal Venda 1,99 total de desconto 3,28
+INFO:root:Valor da promocao 4 esta correto, TESTE APROVADO
+INFO:root:Iniciando teste com a promocao 5 utilizando campo Quantidade proporcional
+INFO:root:Subtotal Venda 33,99 total de desconto 0,50
+INFO:root:Valor da promocao 5 esta correto, TESTE APROVADO
+INFO:root:Iniciando teste com a promocao 6 Utilizando quantidade proporcional fracionada
+INFO:root:Subtotal Venda 1,70 total de desconto 0,50
+INFO:root:Valor da promocao 6 esta correto, TESTE APROVADO
+INFO:root:Testes Finalizados
